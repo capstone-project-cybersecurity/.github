@@ -17,7 +17,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/capstone-project-cybersecurity"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1zgYTWZQJmBWBKMckYbq7P64sE8Px_CYNQ&usqp=CAU" alt="Capstone Project" width="500"></a>
+  <a href="https://github.com/capstone-project-cybersecurity"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVaJaIEEm-68u9Ah8zxwXv3v8kMvkZj4Sv8lJHqYKYb4dPryClfCR_6Ujj3SO8OPp0X-4&usqp=CAU" alt="Capstone Project" width="500"></a>
   <br>
 </h1>
 <br id="about">
@@ -43,6 +43,7 @@ Automating a scanning and pentesting process.
 This project uses the following open source packages:
 
 - [Bash](https://www.gnu.org/software/bash/)
+- [Nmap](https://nmap.org/)
 - [Terraform](https://www.terraform.io/)
 - [Jenkins](https://www.jenkins.io/)
 - [Docker](https://hub.docker.com/)

@@ -27,9 +27,8 @@ Automating a scanning and pentesting process.
 <br id="targets">
 
 ## Targets 🎯
-* Development of a tool that provides agility in the deployment of scaning and pentesting tool.
-* Creation of a automating and containerized environment and that provides the main tools as a DevSecOps professional.
-* A DevOps tool for Pentesters.
+* Development of a tool that provides agility in the deployment of scaning and pentesting tool. [Automate scan repo](https://github.com/capstone-project-cybersecurity/automate-scan)
+* Creation of a automating and containerized environment that provides the main tools as a DevSecOps professional. [Infra repo](https://github.com/capstone-project-cybersecurity/infra)
 <br id="team">
 
 ## Team 👨‍💻

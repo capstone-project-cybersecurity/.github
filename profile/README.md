@@ -42,6 +42,7 @@ Automating a scanning and pentesting process.
 
 This project uses the following open source packages:
 
+- [Bash](https://www.gnu.org/software/bash/)
 - [Terraform](https://www.terraform.io/)
 - [Jenkins](https://www.jenkins.io/)
 - [Docker](https://hub.docker.com/)

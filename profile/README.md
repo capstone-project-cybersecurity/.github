@@ -17,7 +17,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/capstone-project-cybersecurity"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVaJaIEEm-68u9Ah8zxwXv3v8kMvkZj4Sv8lJHqYKYb4dPryClfCR_6Ujj3SO8OPp0X-4&usqp=CAU" alt="Capstone Project" width="500"></a>
+  <a href="https://github.com/capstone-project-cybersecurity"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjJ559qKeZ2NdvSMWcc9Rjpw1QEg5E3I3tg&usqp=CAU" alt="Capstone Project" width="300"></a>
   <br>
 </h1>
 <br id="about">

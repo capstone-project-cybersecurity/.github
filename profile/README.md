@@ -22,7 +22,7 @@
 </h1>
 <br id="about">
 
-## About us ☁️
+## About the project ☁️
 Automating a scanning and pentesting process.
 <br id="targets">
 
